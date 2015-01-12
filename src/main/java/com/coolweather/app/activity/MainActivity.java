@@ -1,9 +1,11 @@
-package com.mymodule.weatherforecast;
+package com.coolweather.app.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.mymodule.weatherforecast.R;
 
 
 public class MainActivity extends Activity {
